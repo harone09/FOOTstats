@@ -1,7 +1,7 @@
 package footstats;
 
 public class Equipe implements Comparable<Equipe>{
-	
+	////
 	private String nom,stade,dates;
 	
 	public String getNom() {
